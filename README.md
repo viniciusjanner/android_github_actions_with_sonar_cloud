@@ -1,2 +1,2 @@
-# android_github_actions_with_sonar_cloud
+## GitHub Actions
 Implementação de pipeline com GitHub Actions e Sonar Cloud.
